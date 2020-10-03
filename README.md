@@ -1,2 +1,2 @@
 # Selamat!! 
-Project Koplo Shrine dapat diunduh leat github!!
+Project Koplo Shrine dapat diunduh lewat github!!
