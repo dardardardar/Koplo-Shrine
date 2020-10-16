@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4620e772cad147d99c5baf2ea349c5be, type: 3}
+  m_Name: ClientManagerSettings
+  m_EditorClassIdentifier: 
+  userId: usr_c7aaa936-14dd-4577-9393-ff29c16c5165
+  gamePath: C:\Program Files (x86)\Steam\steamapps\common\VRChat\VRChat.exe
+  launchOptions: --enable-debug-gui --enable-sdk-log-levels --enable-udon-debug-logging
+    --profile={profile} "--url=launch?id={instance}" {vr}
+  localLaunchOptions: --enable-debug-gui --enable-sdk-log-levels --enable-udon-debug-logging
+    --profile={profile} "--url=create?roomId={instance}" {vr}
+  accessType: 3
+  clients:
+  - name: Default profile
+    profile: 0
+    instances: 1
+    enabled: 1
+    vr: 1
+  sameInstanceRestartDelay: 10
