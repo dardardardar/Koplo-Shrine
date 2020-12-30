@@ -1,0 +1,229 @@
+fileFormatVersion: 2
+guid: 9ed8a67f4fb876c4eb0f9529ac676bc3
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    400000: //RootNode
+    2100000: Interior_black.003
+    2100002: supra_defrost.003
+    2100004: supra_disc.003
+    2100006: supra_exterior_lights_mask.003
+    2100008: supra_exterior_plastic.003
+    2100010: supra_body
+    2100012: supra_exterior_underside.003
+    2100014: supra_glass.003
+    2100016: supra_exterior_light_detail.003
+    2100018: supra_exterior_rubber.003
+    2100020: supra_exterior_lights.003
+    2100022: supra_exterior_radiator.003
+    2100024: supra_glass_detail.003
+    2100026: supra_exterior_window_frame.003
+    2100028: supra_exterior_metal.003
+    2100030: supra_interior_LR.003
+    2100032: supra_interior_LR_seats.003
+    2100034: supra_ext_windows_seam.003
+    2100036: supra_mirror.003
+    2100038: supra_exterior_caliper.003
+    2100040: supra_rims.003
+    2100042: supra_tyre.003
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: Interior_black.003
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Interior_black.003
+    second: {fileID: 2100000, guid: b077569fb16524e44a1aa5a517b32762, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: supra_body
+    second: {fileID: 2100000, guid: 3663b96e91718704f82319d4a4dd8b68, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: supra_defrost.003
+    second: {fileID: 2100000, guid: de67811e23e73064b9c514b1569b9ab9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: supra_disc.003
+    second: {fileID: 2100000, guid: a217cc1db19976647b14689558c183a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: supra_ext_windows_seam.003
+    second: {fileID: 2100000, guid: 8c48c1f008910b64eba2539caf0f1430, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: supra_exterior_caliper.003
+    second: {fileID: 2100000, guid: 22f5526c37566474e99ed7d2698cb613, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: supra_exterior_light_detail.003
+    second: {fileID: 2100000, guid: 3f397ea032b38ff47aef8e9ed7050458, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: supra_exterior_lights.003
+    second: {fileID: 2100000, guid: eca209f9a590f2241ae727ca5bf1c8a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: supra_exterior_lights_mask.003
+    second: {fileID: 2100000, guid: 933ab113138156844a5a8cb3716b3015, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: supra_exterior_metal.003
+    second: {fileID: 2100000, guid: 6059efcd7f0c10449b4a4691f315c408, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: supra_exterior_plastic.003
+    second: {fileID: 2100000, guid: beff31f3bb928c04583059639eb4fed0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: supra_exterior_radiator.003
+    second: {fileID: 2100000, guid: 2be5c5fe69ee6d941bbbda9f7d6bb834, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: supra_exterior_rubber.003
+    second: {fileID: 2100000, guid: c96fc752f03d5b74b91d9f779cc62c33, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: supra_exterior_underside.003
+    second: {fileID: 2100000, guid: 7aae88bc99c1d13499d7ed9c0e4b856c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: supra_exterior_window_frame.003
+    second: {fileID: 2100000, guid: 99c765a978ea4064da166af7b94847bf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: supra_glass.003
+    second: {fileID: 2100000, guid: 8692faf0f3caea648ae1fa1deb900f1b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: supra_glass_detail.003
+    second: {fileID: 2100000, guid: deef425e98aba314e9f6eaf73a8360af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: supra_interior_LR.003
+    second: {fileID: 2100000, guid: 2e217925aebddea4bb0c8d9a0c909661, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: supra_interior_LR_seats.003
+    second: {fileID: 2100000, guid: 01e87249bffa3f54da738c31b4a006ff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: supra_mirror.003
+    second: {fileID: 2100000, guid: 43a77289d055e9046814a9a3f08001a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: supra_rims.003
+    second: {fileID: 2100000, guid: 84ba53143e85c5942a9c39c0c7018087, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: supra_tyre.003
+    second: {fileID: 2100000, guid: dcf3e5a0310f6a94f89419164983d6f0, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 0
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 1
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 2
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,207 @@
+fileFormatVersion: 2
+guid: 5f91c5b4cd686904784f55e4170901f6
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: bumbu asin
+    100002: bumbu keju
+    100004: bumbu lada
+    100006: //RootNode
+    100008: Megaphone
+    100010: piring1
+    100012: piring2
+    100014: wireframe
+    400000: bumbu asin
+    400002: bumbu keju
+    400004: bumbu lada
+    400006: //RootNode
+    400008: Megaphone
+    400010: piring1
+    400012: piring2
+    400014: wireframe
+    2100000: glossy
+    2100002: putih
+    2100004: merah
+    2100006: Hitam
+    2100008: Plat nomer
+    2100010: gas lpg
+    2100012: tusuk gigi
+    2100014: kayu
+    2100016: api___
+    2100018: tahu bulat
+    2100020: transparent (minyak)
+    2100022: Keju
+    2100024: Biru
+    2300000: bumbu asin
+    2300002: bumbu keju
+    2300004: bumbu lada
+    2300006: Megaphone
+    2300008: piring1
+    2300010: piring2
+    2300012: wireframe
+    3300000: bumbu asin
+    3300002: bumbu keju
+    3300004: bumbu lada
+    3300006: Megaphone
+    3300008: piring1
+    3300010: piring2
+    3300012: wireframe
+    4300000: wireframe
+    4300002: piring1
+    4300004: piring2
+    4300006: Megaphone
+    4300008: bumbu keju
+    4300010: bumbu lada
+    4300012: bumbu asin
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Biru
+    second: {fileID: 2100000, guid: 3acbf4378f164ec4692241dec80399b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hitam
+    second: {fileID: 2100000, guid: 7ea34c62ede20f848b84fcded917808c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Keju
+    second: {fileID: 2100000, guid: a27085e64fcbf674e9f0037806d6c536, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plat nomer
+    second: {fileID: 2100000, guid: e8f3e6c4bf1d60b4382d62b04e1c9509, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: api___
+    second: {fileID: 2100000, guid: 2d497b0e55056c54eb73ad0b48475620, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gas lpg
+    second: {fileID: 2100000, guid: 2bea42ec7caf4cc468cfeacf915f3e8e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glossy
+    second: {fileID: 2100000, guid: eb1058c326480cc4ea570ccb93cb511c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kayu
+    second: {fileID: 2100000, guid: 6315098e327a38b4a884ebbf6dbd2413, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: merah
+    second: {fileID: 2100000, guid: adc14255921def847a0854b1fbf07611, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: putih
+    second: {fileID: 2100000, guid: ef481a23292366e4a8fa6ef82fe69f49, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tahu bulat
+    second: {fileID: 2100000, guid: e03b267133c60fc4c91550b9394f3425, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: transparent (minyak)
+    second: {fileID: 2100000, guid: 1d8b778162d25754e81510c42670844e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tusuk gigi
+    second: {fileID: 2100000, guid: 0e1f9d50012397d4f8a5d262da1d5eac, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

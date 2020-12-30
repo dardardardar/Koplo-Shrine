@@ -11,9 +11,9 @@ namespace GotoUdon.Editor
 
         private static readonly string[] nameGeneratorWords =
         {
-            "Goto", "Final", "The", "Ant", "Super", "Dog", "Cat", "Like", "Loli", "Hate", "Mark", "Eddie", "Steve", "Blue", "Black",
-            "White", "Yellow", "Red", "Green", "Pro", "Cookie", "Lover", "I", "Love", "Fox", "Foxes", "Cats", "Dogs", "Cookies",
-            ""
+            "Ozhy", "GodlyTree", "Siyuuukun", "Tamtam13 ", "iRuz", "Astcape", "Bocun", "Dar", "Prub", "Zellionir", "moebius29", "Senku", "Nywaa", "WibuSquire", "futcut [fy]",
+            "Kuze Hibiki", "Schweine", "YuriCrimson-", "Reynald Edwin", "Arjunya", "Liliputzz", "Mr Bin", "Ai-Jello", "Crystalizze", "Steevo", "SacikoSaci", "Gopr0pik", "Konakaburi", "S54B32",
+            "Reznya"
         };
 
         public string playerName;
@@ -35,7 +35,7 @@ namespace GotoUdon.Editor
             string newName = GenerateName();
             while (usedNamed.Contains(newName))
             {
-                newName += _random.Next(0, 10);
+                newName += _random.Next(0, 99);
             }
 
             return new PlayerTemplate
@@ -48,7 +48,7 @@ namespace GotoUdon.Editor
 
         private static string GenerateName()
         {
-            int length = _random.Next(1, 3);
+            int length = _random.Next(1, 2);
             string name = "";
             for (int i = 0; i < length; i++)
             {

@@ -16,7 +16,7 @@ MonoBehaviour:
   avatarPrefab: {fileID: 100078, guid: de3e933c226ffc74bad1df3aa9984822, type: 3}
   spawnPoint: {fileID: 0}
   playerTemplates:
-  - playerName: Ozhy
+  - playerName: S54B32
     avatarPrefab: {fileID: 0}
     spawnPoint: {fileID: 0}
     hasVr: 0
